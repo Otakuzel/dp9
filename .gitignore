@@ -1,0 +1,3 @@
+# Project exclude paths
+/hdfs-day02/target/
+/mr-day01/target/
